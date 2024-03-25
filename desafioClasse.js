@@ -22,9 +22,6 @@ let heroiNovo2 = new heroi("Victor", 31, "Ninja", "shuriken")
 
 //Imprime Mensagem
 console.log(`${heroiNovo.nome} o ${heroiNovo.tipo} de ${heroiNovo.idade} anos atacou usando ${heroiNovo.ataque}`)
-
 console.log(`${heroiNovo0.nome} o ${heroiNovo0.tipo} de ${heroiNovo0.idade} anos atacou usando ${heroiNovo0.ataque}`)
-
 console.log(`${heroiNovo1.nome} o ${heroiNovo1.tipo} de ${heroiNovo1.idade} anos atacou usando ${heroiNovo1.ataque}`)
-
 console.log(`${heroiNovo2.nome} o ${heroiNovo2.tipo} de ${heroiNovo2.idade} anos atacou usando ${heroiNovo2.ataque}`)
